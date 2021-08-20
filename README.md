@@ -16,3 +16,9 @@ HandPose estimation with hand segmentation and keypoint detection using Encoder-
   <img height="200px" width="200px" src="Images/cropped1.png"></img>
   <img height="200px" width="200px" src="Images/keypoint1.png"></img>
 </p>
+<p float="left">
+  <img height="200px" width="200px" src="Images/raw2.png"></img>
+  <img height="200px" width="200px" src="Images/segmented2.png"></img>
+  <img height="200px" width="200px" src="Images/cropped2.png"></img>
+  <img height="200px" width="200px" src="Images/keypoint2.png"></img>
+</p>
